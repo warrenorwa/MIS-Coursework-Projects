@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6a71cf16e1237d6e0dccc575"
+  },
+  "WardNumber": 11,
+  "WardName": "Orthopaedic",
+  "Beds": [
+    84,
+    85,
+    86
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a71cf16e1237d6e0dccc576"
+  },
+  "WardNumber": 5,
+  "WardName": "Cardiology",
+  "Beds": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a71cf16e1237d6e0dccc577"
+  },
+  "WardNumber": 3,
+  "WardName": "Paediatric",
+  "Beds": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a71cf16e1237d6e0dccc578"
+  },
+  "WardNumber": 7,
+  "WardName": "General Surgery",
+  "Beds": [
+    10,
+    11
+  ]
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6a71d082e1237d6e0dccc58b"
+  },
+  "DrugNumber": 10223,
+  "DrugName": "Morphine",
+  "Description": "Pain Killer",
+  "QuantityInStock": 500,
+  "ReorderLevel": 100,
+  "UnitCost": 0.5
+},
+{
+  "_id": {
+    "$oid": "6a71d082e1237d6e0dccc58c"
+  },
+  "DrugNumber": 10334,
+  "DrugName": "Tetracycline",
+  "Description": "Antibiotic",
+  "QuantityInStock": 40,
+  "ReorderLevel": 50,
+  "UnitCost": 1.2
+},
+{
+  "_id": {
+    "$oid": "6a71d082e1237d6e0dccc58d"
+  },
+  "DrugNumber": 10445,
+  "DrugName": "Paracetamol",
+  "Description": "Pain Killer",
+  "QuantityInStock": 1000,
+  "ReorderLevel": 200,
+  "UnitCost": 0.1
+},
+{
+  "_id": {
+    "$oid": "6a71d082e1237d6e0dccc58e"
+  },
+  "DrugNumber": 10556,
+  "DrugName": "Amoxicillin",
+  "Description": "Antibiotic",
+  "QuantityInStock": 80,
+  "ReorderLevel": 100,
+  "UnitCost": 0.8
+},
+{
+  "_id": {
+    "$oid": "6a71d082e1237d6e0dccc58f"
+  },
+  "DrugNumber": 10667,
+  "DrugName": "Insulin",
+  "Description": "Hormone",
+  "QuantityInStock": 300,
+  "ReorderLevel": 60,
+  "UnitCost": 2.5
+}]

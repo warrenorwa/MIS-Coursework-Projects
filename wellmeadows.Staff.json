@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6a71d05ae1237d6e0dccc584"
+  },
+  "StaffID": 1,
+  "StaffName": "Dr. Sarah Kimutai",
+  "Role": "Consultant Orthopaedic Surgeon"
+},
+{
+  "_id": {
+    "$oid": "6a71d05ae1237d6e0dccc585"
+  },
+  "StaffID": 2,
+  "StaffName": "Dr. Michael Otiende",
+  "Role": "Cardiologist"
+},
+{
+  "_id": {
+    "$oid": "6a71d05ae1237d6e0dccc586"
+  },
+  "StaffID": 3,
+  "StaffName": "Dr. Lucy Wambui",
+  "Role": "Paediatrician"
+},
+{
+  "_id": {
+    "$oid": "6a71d05ae1237d6e0dccc587"
+  },
+  "StaffID": 4,
+  "StaffName": "Dr. John Mwangi",
+  "Role": "General Surgeon"
+}]

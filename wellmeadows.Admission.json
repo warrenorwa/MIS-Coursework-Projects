@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6a71d0cae1237d6e0dccc593"
+  },
+  "AdmissionID": 1,
+  "PatientNumber": "P10034",
+  "WardNumber": 11,
+  "BedNumber": 84,
+  "AdmissionDate": "2013-03-20",
+  "DischargeDate": "2014-05-05"
+},
+{
+  "_id": {
+    "$oid": "6a71d0cae1237d6e0dccc594"
+  },
+  "AdmissionID": 2,
+  "PatientNumber": "P10045",
+  "WardNumber": 5,
+  "BedNumber": 1,
+  "AdmissionDate": "2025-01-10",
+  "DischargeDate": null
+},
+{
+  "_id": {
+    "$oid": "6a71d0cae1237d6e0dccc595"
+  },
+  "AdmissionID": 3,
+  "PatientNumber": "P10052",
+  "WardNumber": 3,
+  "BedNumber": 2,
+  "AdmissionDate": "2025-02-15",
+  "DischargeDate": "2025-02-28"
+},
+{
+  "_id": {
+    "$oid": "6a71d0cae1237d6e0dccc596"
+  },
+  "AdmissionID": 4,
+  "PatientNumber": "P10061",
+  "WardNumber": 7,
+  "BedNumber": 10,
+  "AdmissionDate": "2025-03-01",
+  "DischargeDate": null
+},
+{
+  "_id": {
+    "$oid": "6a71d0cae1237d6e0dccc597"
+  },
+  "AdmissionID": 5,
+  "PatientNumber": "P10078",
+  "WardNumber": 11,
+  "BedNumber": 85,
+  "AdmissionDate": "2025-03-10",
+  "DischargeDate": "2025-03-20"
+}]

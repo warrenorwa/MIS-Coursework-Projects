@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6a71cfcbe1237d6e0dccc57c"
+  },
+  "PatientNumber": "P10034",
+  "FullName": "Robert MacDonald"
+},
+{
+  "_id": {
+    "$oid": "6a71cfcbe1237d6e0dccc57d"
+  },
+  "PatientNumber": "P10045",
+  "FullName": "Warren Orwa"
+},
+{
+  "_id": {
+    "$oid": "6a71cfcbe1237d6e0dccc57e"
+  },
+  "PatientNumber": "P10052",
+  "FullName": "James Otieno"
+},
+{
+  "_id": {
+    "$oid": "6a71cfcbe1237d6e0dccc57f"
+  },
+  "PatientNumber": "P10061",
+  "FullName": "Stephen Koiseta"
+},
+{
+  "_id": {
+    "$oid": "6a71cfcbe1237d6e0dccc580"
+  },
+  "PatientNumber": "P10078",
+  "FullName": "Peter Kimani"
+}]

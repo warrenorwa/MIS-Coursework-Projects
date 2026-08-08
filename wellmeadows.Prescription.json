@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc59b"
+  },
+  "AdmissionID": 1,
+  "DrugNumber": 10223,
+  "StartDate": "2013-03-24",
+  "Dosage": "10mg/ml",
+  "MethodOfAdmin": "Oral",
+  "UnitsPerDay": 50,
+  "FinishDate": "2014-04-24",
+  "StaffID": 1
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc59c"
+  },
+  "AdmissionID": 1,
+  "DrugNumber": 10334,
+  "StartDate": "2013-03-24",
+  "Dosage": "0.5mg/ml",
+  "MethodOfAdmin": "IV",
+  "UnitsPerDay": 10,
+  "FinishDate": "2013-04-17",
+  "StaffID": 1
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc59d"
+  },
+  "AdmissionID": 1,
+  "DrugNumber": 10223,
+  "StartDate": "2014-04-25",
+  "Dosage": "10mg/ml",
+  "MethodOfAdmin": "Oral",
+  "UnitsPerDay": 10,
+  "FinishDate": "2015-05-02",
+  "StaffID": 1
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc59e"
+  },
+  "AdmissionID": 2,
+  "DrugNumber": 10445,
+  "StartDate": "2025-01-11",
+  "Dosage": "500mg",
+  "MethodOfAdmin": "Oral",
+  "UnitsPerDay": 20,
+  "FinishDate": "2025-01-25",
+  "StaffID": 2
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc59f"
+  },
+  "AdmissionID": 3,
+  "DrugNumber": 10556,
+  "StartDate": "2025-02-16",
+  "Dosage": "250mg",
+  "MethodOfAdmin": "Oral",
+  "UnitsPerDay": 15,
+  "FinishDate": "2025-02-27",
+  "StaffID": 3
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc5a0"
+  },
+  "AdmissionID": 4,
+  "DrugNumber": 10667,
+  "StartDate": "2025-03-02",
+  "Dosage": "5 units",
+  "MethodOfAdmin": "IV",
+  "UnitsPerDay": 4,
+  "FinishDate": "2025-03-15",
+  "StaffID": 4
+},
+{
+  "_id": {
+    "$oid": "6a71d10ce1237d6e0dccc5a1"
+  },
+  "AdmissionID": 5,
+  "DrugNumber": 10223,
+  "StartDate": "2025-03-11",
+  "Dosage": "10mg/ml",
+  "MethodOfAdmin": "Oral",
+  "UnitsPerDay": 30,
+  "FinishDate": "2025-03-19",
+  "StaffID": 1
+}]
